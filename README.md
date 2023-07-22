@@ -1,0 +1,2 @@
+# yolo_dronekit_yangin_tespit
+ yolo_dronekit_yangin_tespit
