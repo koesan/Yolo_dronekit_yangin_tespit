@@ -1,7 +1,6 @@
 # yolo_dronekit_yangin_tespit
- yolo_dronekit_yangin_tespit
 
-Opencv-Dronekit, dron ile yeşil kare tespiti ve üstüne iniş.
+Dronekit ve yolov4 kullanarak yangın tespit.
 
 Ubuntu sürümü = 20.04
 
