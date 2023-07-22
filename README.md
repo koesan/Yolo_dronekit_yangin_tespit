@@ -1,4 +1,4 @@
-# yolo_dronekit_yangin_tespit
+# Yolo_dronekit_yangin_tespit
 
 Dronekit ve yolov4 kullanarak yangın tespit.
 
